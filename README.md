@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Siva Sankar Reddy Asam, a recent B.Tech graduate,
+-    I'm an enthusiastic and dedicated Front-end developer excelled in
+- 🦾Skills: Html, CSS, JavaScript, React, Tailwind, Python, SQL, MySQL, Django, flask and focusing on new skills as well.
+- solved 500+ problems in Leetcode, Codechef and Hackerrank.
+- And ready to get hands-on experience as soon as possible.
