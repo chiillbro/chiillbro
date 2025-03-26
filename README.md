@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋<br><br>Full Stack Developer based in India</h1>
+<h1 align="center">hey there 👋<br><br>Software Engineer based in India</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">Let me Introduce myself, I'm Siva Sankar Reddy Asam<br><br>- 🔭 I’m currently working as a Full Stack Developer at Attica Gold Company <br>-💻 Freelancer: As a freelancer, I specialize in turning ideas into reality. Whether it's web development, mobile apps, or any digital project, I'm here to bring your ideas to life. Let's collaborate and build something amazing together!<br>- 📚 I'm currently exploring different tech stacks and constantly upgrading my logic building</h4>
+<h4 align="left">Let me Introduce myself, I'm Siva Sankar Reddy Asam<br><br>- 🔭 I’m currently working as a Software Developer at Nirmaan <br>-💻 Freelancer: As a freelancer, I specialize in turning ideas into reality. Whether it's web development, mobile apps, or any digital project, I'm here to bring your ideas to life. Let's collaborate and build something amazing together!<br>- 📚 I'm currently exploring different tech stacks and constantly upgrading my logic building</h4>
 
 ###
 
